@@ -8,6 +8,7 @@ public class IpbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IpbApplication.class, args);
+		System.out.println("안녕!!!");
 	}
 
 }
