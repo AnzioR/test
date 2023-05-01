@@ -10,6 +10,7 @@ public class IpbApplication {
 		SpringApplication.run(IpbApplication.class, args);
 		System.out.println("깃~~~");
 		System.out.println("test test");
+		System.out.println("마지막");
 	}
 
 }
