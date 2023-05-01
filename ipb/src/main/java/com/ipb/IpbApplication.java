@@ -11,6 +11,7 @@ public class IpbApplication {
 		System.out.println("깃~~~");
 		System.out.println("test test");
 		System.out.println("마지막");
+		System.out.println("찐막");
 	}
 
 }
