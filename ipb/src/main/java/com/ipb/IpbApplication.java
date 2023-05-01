@@ -12,6 +12,7 @@ public class IpbApplication {
 		System.out.println("test test");
 		System.out.println("마지막");
 		System.out.println("찐막");
+		System.out.println("다시 테스트 합니당");
 	}
 
 }
