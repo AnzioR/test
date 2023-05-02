@@ -16,11 +16,12 @@ public class IpbApplication {
 
 		System.out.println("안녕하세요");
 		System.out.println("반가워요");
-		System.out.println("다훈님 멋져요!");
+		System.out.println("기여운 다훈님 멋져요!");
     
 		System.out.println("밍디냠냠");
 		System.out.println("ㅜㅜㅜㅜㅜㅜ");
-		System.out.println("브랜치를 만들어야합니다.");
+		System.out.println("🌴가지를 만들자🌴.");
+		System.out.println("기여운 밍디");
 	}
 
 }
