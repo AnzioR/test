@@ -19,8 +19,8 @@ public class IpbApplication {
 		System.out.println("다훈님 멋져요!");
     
 		System.out.println("밍디냠냠");
-		System.out.println("test 중입니다....");
-
+		System.out.println("ㅜㅜㅜㅜㅜㅜ");
+		System.out.println("브랜치를 만들어야합니다.");
 	}
 
 }
