@@ -22,6 +22,7 @@ public class IpbApplication {
 		System.out.println("ㅜㅜㅜㅜㅜㅜ");
 		System.out.println("🌴가지를 만들자🌴.");
 		System.out.println("기여운 밍디");
+		System.out.println("나무가 되어봅시다~~~~");
 	}
 
 }
