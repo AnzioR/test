@@ -15,7 +15,7 @@ public class IpbApplication {
 		System.out.println("다시 테스트 합니당");
 		System.out.println("밍디냠냠");
 		System.out.println("ㅜㅜㅜㅜㅜㅜ");
-
+		System.out.println("브랜치를 만들어야합니다.");
 	}
 
 }
