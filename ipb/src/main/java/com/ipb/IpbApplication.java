@@ -13,8 +13,7 @@ public class IpbApplication {
 		System.out.println("마지막");
 		System.out.println("찐막");
 		System.out.println("다시 테스트 합니당");
-		System.out.println("집에 가겠어요....");
-		System.out.println("나는 천재다");
+		System.out.println("밍디냠냠");
 
 	}
 
